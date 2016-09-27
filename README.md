@@ -4,8 +4,9 @@
 ![Language](https://img.shields.io/badge/language-Swift%202-orange.svg)
 ![License](https://img.shields.io/github/license/JakeLin/SwiftWeather.svg?style=flat)
 
-## Screenshots
+## Screenshot - Portrait
 ![Portrait](https://cloud.githubusercontent.com/assets/5039434/18873936/054ae684-8505-11e6-9434-ee47603ce324.png)
+## Screenshot - Landscape
 ![Landscape](https://cloud.githubusercontent.com/assets/5039434/18874512/5e649de6-8505-11e6-9d71-18c3a2d226a7.png)
 
 ### What
