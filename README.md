@@ -5,18 +5,20 @@
 ![License](https://img.shields.io/github/license/JakeLin/SwiftWeather.svg?style=flat)
 
 ## Screenshots
-![Screenshots](https://cloud.githubusercontent.com/assets/5039434/18386715/0683b148-76dc-11e6-8ede-d2df6f794287.png)
+![Screenshots]
+[Portrait](https://cloud.githubusercontent.com/assets/5039434/18873936/054ae684-8505-11e6-9434-ee47603ce324.png)
+[Landscape](https://cloud.githubusercontent.com/assets/5039434/18874512/5e649de6-8505-11e6-9d71-18c3a2d226a7.png)
 
 ### What
-* Xcode 7
+* Xcode 7.3
 * iOS 9
-* Swift
+* Swift 3
 
 ## Version 1.0
-This version has been upgraded to support iOS 9 and using Swift.
+This version has been upgraded to support iOS 9 and using Swift 3.
 
 ## Features
-* Swift Programming Language
+* Swift Programming Language - fully upgraded to Swift 3
 * MVVM design pattern - Observable ViewModels binding with Views
 * Best practice of [Alamofire](https://github.com/Alamofire/Alamofire): Alamofire routers
 * Best practice of JSON serialization - Utilizing of [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
@@ -38,25 +40,25 @@ This version has been upgraded to support iOS 9 and using Swift.
 1) Clone the repository
 
 ```bash
-$ git clone https://github.com/ericleiyang/SwiftBestPractice.git
+$ git clone https://github.com/ericleiyang/PetLists.git
 ```
 
 2) Install pods
 
 ```bash
-$ cd SwiftBestPractice
+$ cd PetLists
 $ pod install
 ```
 
 3) Open the workspace in Xcode
 
 ```bash
-$ open "SwiftBestPractice.xcworkspace"
+$ open "PetLists.xcworkspace"
 ```
 
 5) Compile and run the app in your simulator
 
 
 # Requirements
-* Xcode 7
+* Xcode 7.3
 * iOS 9
