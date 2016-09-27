@@ -5,9 +5,8 @@
 ![License](https://img.shields.io/github/license/JakeLin/SwiftWeather.svg?style=flat)
 
 ## Screenshots
-![Screenshots]
-[Portrait](https://cloud.githubusercontent.com/assets/5039434/18873936/054ae684-8505-11e6-9434-ee47603ce324.png)
-[Landscape](https://cloud.githubusercontent.com/assets/5039434/18874512/5e649de6-8505-11e6-9d71-18c3a2d226a7.png)
+![Portrait](https://cloud.githubusercontent.com/assets/5039434/18873936/054ae684-8505-11e6-9434-ee47603ce324.png)
+![Landscape](https://cloud.githubusercontent.com/assets/5039434/18874512/5e649de6-8505-11e6-9d71-18c3a2d226a7.png)
 
 ### What
 * Xcode 7.3
